@@ -18,3 +18,4 @@ class Club(BaseModel):
 
 class ClubList(BaseModel):
     clubs: List[Club]
+
